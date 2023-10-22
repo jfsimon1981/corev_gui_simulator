@@ -1,2 +1,2 @@
-# corev_gui_simulator
+# Core-V Simulator
 Universal RISC-V Core Simulator
